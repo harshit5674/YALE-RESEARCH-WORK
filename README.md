@@ -1,6 +1,6 @@
 # YALE-RESEARCH-WORK
 
-# Ideas for fininte automata
+## Ideas for fininte automata
 
 * no edge features as of now.
 * 2 node features, 00 for normal, 01 for start state, 11 final state
